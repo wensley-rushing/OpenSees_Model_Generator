@@ -13,3 +13,4 @@ flake8-rst
 flake8-rst-docstrings
 jupyter
 jupytext
+opensees
